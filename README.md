@@ -1,6 +1,6 @@
 # Kieran's Digital Portfolio - [School Year]
 
-[avatar]([https://link-url-here.org](https://readyplayer.me/gallery/65e59750a1e0ae2c5f14df7a)
+[avatar](https://readyplayer.me/gallery/65e59750a1e0ae2c5f14df7a)
 
 
 
