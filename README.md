@@ -1,5 +1,9 @@
 # Kieran's Digital Portfolio - [School Year]
 
+[avatar]([https://link-url-here.org](https://readyplayer.me/gallery/65e59750a1e0ae2c5f14df7a)
+
+
+
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
 
