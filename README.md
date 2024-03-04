@@ -1,6 +1,6 @@
-# Kieran's Digital Portfolio - [School Year]
+# Kieran's Digital Portfolio - [2024]
 
-[avatar](https://readyplayer.me/gallery/65e59750a1e0ae2c5f14df7a)
+[avatar](https://readyplayer.me/gallery/65e59f73b8a463791b7981a1)
 
 
 
